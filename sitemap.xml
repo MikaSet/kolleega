@@ -1,23 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url><loc>https://mikaset.github.io/kolleega/</loc></url>
-<url><loc>https://mikaset.github.io/kolleega/aidinkieli/</loc></url>
-<url><loc>https://mikaset.github.io/kolleega/suomi-toisena-kielena/</loc></url>
-<url><loc>https://mikaset.github.io/kolleega/pitka-matematiikka/</loc></url>
-<url><loc>https://mikaset.github.io/kolleega/lyhyt-matematiikka/</loc></url>
-<url><loc>https://mikaset.github.io/kolleega/englanti/</loc></url>
-<url><loc>https://mikaset.github.io/kolleega/ruotsi/</loc></url>
-<url><loc>https://mikaset.github.io/kolleega/muut-kielet/</loc></url>
-<url><loc>https://mikaset.github.io/kolleega/biologia/</loc></url>
-<url><loc>https://mikaset.github.io/kolleega/maantiede/</loc></url>
-<url><loc>https://mikaset.github.io/kolleega/fysiikka/</loc></url>
-<url><loc>https://mikaset.github.io/kolleega/kemia/</loc></url>
-<url><loc>https://mikaset.github.io/kolleega/historia/</loc></url>
-<url><loc>https://mikaset.github.io/kolleega/yhteiskuntaoppi/</loc></url>
-<url><loc>https://mikaset.github.io/kolleega/uskonto/</loc></url>
-<url><loc>https://mikaset.github.io/kolleega/elamankatsomustieto/</loc></url>
-<url><loc>https://mikaset.github.io/kolleega/filosofia/</loc></url>
-<url><loc>https://mikaset.github.io/kolleega/psykologia/</loc></url>
-<url><loc>https://mikaset.github.io/kolleega/terveystieto/</loc></url>
-<url><loc>https://mikaset.github.io/kolleega/ops/</loc></url>
+  <url><loc>https://mikaset.github.io/kolleega/</loc></url>
+  <url><loc>https://mikaset.github.io/kolleega/aidinkieli-ja-kirjallisuus-kirjoitustaidon-koe/</loc></url>
+  <url><loc>https://mikaset.github.io/kolleega/aidinkieli-ja-kirjallisuus-lukutaidon-koe/</loc></url>
+  <url><loc>https://mikaset.github.io/kolleega/biologia/</loc></url>
+  <url><loc>https://mikaset.github.io/kolleega/elamankatsomustieto/</loc></url>
+  <url><loc>https://mikaset.github.io/kolleega/englanti-lyhyt-oppimaara/</loc></url>
+  <url><loc>https://mikaset.github.io/kolleega/englanti-pitka-oppimaara/</loc></url>
+  <url><loc>https://mikaset.github.io/kolleega/espanja-lyhyt-oppimaara/</loc></url>
+  <url><loc>https://mikaset.github.io/kolleega/espanja-pitka-oppimaara/</loc></url>
+  <url><loc>https://mikaset.github.io/kolleega/evankelisluterilainen-uskonto/</loc></url>
+  <url><loc>https://mikaset.github.io/kolleega/filosofia/</loc></url>
+  <url><loc>https://mikaset.github.io/kolleega/fysiikka/</loc></url>
+  <url><loc>https://mikaset.github.io/kolleega/historia/</loc></url>
+  <url><loc>https://mikaset.github.io/kolleega/inarinsaame-aidinkieli-ja-kirjallisuus/</loc></url>
+  <url><loc>https://mikaset.github.io/kolleega/inarinsaame-lyhyt-oppimaara/</loc></url>
+  <url><loc>https://mikaset.github.io/kolleega/italia-lyhyt-oppimaara/</loc></url>
+  <url><loc>https://mikaset.github.io/kolleega/kemia/</loc></url>
+  <url><loc>https://mikaset.github.io/kolleega/koltansaame-lyhyt-oppimaara/</loc></url>
+  <url><loc>https://mikaset.github.io/kolleega/latina-laajempi-lyhyt-oppimaara/</loc></url>
+  <url><loc>https://mikaset.github.io/kolleega/latina-lyhyt-oppimaara/</loc></url>
+  <url><loc>https://mikaset.github.io/kolleega/maantiede/</loc></url>
+  <url><loc>https://mikaset.github.io/kolleega/matematiikka-lyhyt-oppimaara/</loc></url>
+  <url><loc>https://mikaset.github.io/kolleega/matematiikka-pitka-oppimaara/</loc></url>
+  <url><loc>https://mikaset.github.io/kolleega/nakovammaisten-koe-lyhyt-oppimaara/</loc></url>
+  <url><loc>https://mikaset.github.io/kolleega/nakovammaisten-koe-pitka-oppimaara/</loc></url>
+  <url><loc>https://mikaset.github.io/kolleega/ortodoksinen-uskonto/</loc></url>
+  <url><loc>https://mikaset.github.io/kolleega/pohjoissaame-aidinkieli-ja-kirjallisuus/</loc></url>
+  <url><loc>https://mikaset.github.io/kolleega/pohjoissaame-lyhyt-oppimaara/</loc></url>
+  <url><loc>https://mikaset.github.io/kolleega/portugali-lyhyt-oppimaara/</loc></url>
+  <url><loc>https://mikaset.github.io/kolleega/psykologia/</loc></url>
+  <url><loc>https://mikaset.github.io/kolleega/ranska-lyhyt-oppimaara/</loc></url>
+  <url><loc>https://mikaset.github.io/kolleega/ranska-pitka-oppimaara/</loc></url>
+  <url><loc>https://mikaset.github.io/kolleega/ruotsi-keskipitka-oppimaara/</loc></url>
+  <url><loc>https://mikaset.github.io/kolleega/ruotsi-pitka-oppimaara/</loc></url>
+  <url><loc>https://mikaset.github.io/kolleega/saksa-lyhyt-oppimaara/</loc></url>
+  <url><loc>https://mikaset.github.io/kolleega/saksa-pitka-oppimaara/</loc></url>
+  <url><loc>https://mikaset.github.io/kolleega/suomi-toisena-kielena-ja-kirjallisuus/</loc></url>
+  <url><loc>https://mikaset.github.io/kolleega/terveystieto/</loc></url>
+  <url><loc>https://mikaset.github.io/kolleega/venaja-lyhyt-oppimaara/</loc></url>
+  <url><loc>https://mikaset.github.io/kolleega/venaja-pitka-oppimaara/</loc></url>
+  <url><loc>https://mikaset.github.io/kolleega/yhteiskuntaoppi/</loc></url>
+  <url><loc>https://mikaset.github.io/kolleega/ops/</loc></url>
 </urlset>
