@@ -3,7 +3,7 @@ name: Build HVP site
 on:
   workflow_dispatch:
   push:
-    branches: [feat/oppiainehakemisto]
+    branches: [main, feat/oppiainehakemisto]
     paths:
       - scripts/build_hvp_site.py
       - .github/workflows/build-hvp-site.yml
@@ -17,7 +17,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          ref: feat/oppiainehakemisto
+          ref: ${{ github.ref_name }}
           fetch-depth: 0
       - uses: actions/setup-python@v5
         with:
@@ -41,5 +41,5 @@ jobs:
             echo "No generated changes"
           else
             git commit -m "Generate subject HVP pages"
-            git push origin HEAD:feat/oppiainehakemisto
+            git push origin HEAD:${{ github.ref_name }}
           fi
